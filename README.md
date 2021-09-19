@@ -1,2 +1,2 @@
-# typing.css
-A retro and black-and-white classless CSS theme with typewriter animations for the headings!
+# colorful.css
+A retro and colorful classless CSS theme!
