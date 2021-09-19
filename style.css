@@ -35,6 +35,7 @@
 :root {
   --font: "Varela Round";
   --heading-link-font: "Space Mono";
+  --heading-link-color: #494949;
   --background-color: #f7f7ff;
   --h1-color: #fe5f55;
   --h2-color: #fd8580;
@@ -95,7 +96,6 @@ h6 {
   hyphens: auto;
 }
 
-/*  a) Headings */
 h1 a,
 h2 a,
 h3 a,
@@ -222,9 +222,28 @@ hr {
 a {
   font-family: var(--heading-link-font);
   color: var(--link-color);
+  text-decoration: none;
 }
 
 a:hover {
+  color: var(--alt-color);
+}
+
+a h1,
+a h2,
+a h3,
+a h4,
+a h5,
+a h6 {
+  color: var(--heading-link-color);
+}
+
+a h1:hover,
+a h2:hover,
+a h3:hover,
+a h4:hover,
+a h5:hover,
+a h6:hover {
   color: var(--alt-color);
 }
 
