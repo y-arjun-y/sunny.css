@@ -95,6 +95,17 @@ h6 {
   hyphens: auto;
 }
 
+/*  a) Headings */
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  text-decoration: none;
+  color: #303030;
+}
+
 h1 {
   font-size: 2.35em;
   background-color: var(--h1-color);
