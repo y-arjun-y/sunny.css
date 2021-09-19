@@ -1,5 +1,5 @@
 {
-  "name": "colorful.css",
+  "name": "sunny.css",
   "version": "1.0.0",
   "description": "A retro and colorful classless CSS theme!",
   "main": "style.css",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/y-arjun-y/colorful.css.git"
+    "url": "git+https://github.com/y-arjun-y/sunny.css.git"
   },
   "keywords": [
     "css",
@@ -22,7 +22,7 @@
   "author": "Arjun Yadav (https://arjunyadav.net)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/y-arjun-y/colorful.css/issues"
+    "url": "https://github.com/y-arjun-y/sunny.css/issues"
   },
-  "homepage": "https://github.com/y-arjun-y/colorful.css#readme"
+  "homepage": "https://github.com/y-arjun-y/sunny.css#readme"
 }
