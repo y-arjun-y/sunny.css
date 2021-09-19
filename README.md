@@ -1,9 +1,9 @@
-# colorful.css
+# sunny.css
 
-## [Showcase Image](https://y-arjun-y.github.io/colorful.css/)
+## [Showcase Image](https://y-arjun-y.github.io/sunny.css/)
 
 <div align="center">
-<img src="colorful.png" height="500px">  
+<img src="sunny.png" height="500px">  
 </div>
 
 ## Description
@@ -18,7 +18,7 @@ A retro and colorful classless CSS theme! Based on [sakura](https://github.com/o
 ```html
 <link
   rel="stylesheet"
-  href="https://unpkg.com/colorful.css@1.0.1/style.css"
+  href="https://unpkg.com/sunny.css@1.0.0/style.css"
   type="text/css"
 />
 ```
@@ -35,7 +35,7 @@ A retro and colorful classless CSS theme! Based on [sakura](https://github.com/o
  yarn add colorful.css
 ```
 
-Alternatively, you can see the raw CSS file by going [here](https://raw.githubusercontent.com/y-arjun-y/colorful.css/main/style.css).
+Alternatively, you can see the raw CSS file by going [here](https://raw.githubusercontent.com/y-arjun-y/sunny.css/main/style.css).
 
 ## Credit
 
