@@ -11,8 +11,13 @@
     "url": "git+https://github.com/y-arjun-y/colorful.css.git"
   },
   "keywords": [
+    "css",
+    "theme",
+    "web-design",
     "classless",
-    "css"
+    "classless-theme",
+    "no-class",
+    "classless-css"
   ],
   "author": "Arjun Yadav (https://arjunyadav.net)",
   "license": "MIT",
