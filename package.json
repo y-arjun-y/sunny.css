@@ -1,14 +1,14 @@
 {
   "name": "colorful.css",
   "version": "1.0.1",
-  "description": "A retro and colorful theme!",
+  "description": "A retro and colorful classless CSS theme!",
   "main": "style.css",
   "scripts": {
     "test": "npx serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/y-arjun-y/arjunyadav-css.git"
+    "url": "git+https://github.com/y-arjun-y/colorful.css.git"
   },
   "keywords": [
     "classless",
@@ -17,7 +17,7 @@
   "author": "Arjun Yadav (https://arjunyadav.net)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/y-arjun-y/arjunyadav-css/issues"
+    "url": "https://github.com/y-arjun-y/colorful.css/issues"
   },
-  "homepage": "https://github.com/y-arjun-y/arjunyadav-css#readme"
+  "homepage": "https://github.com/y-arjun-y/colorful.css#readme"
 }
