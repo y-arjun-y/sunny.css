@@ -26,13 +26,13 @@ A retro and colorful classless CSS theme! Based on [sakura](https://github.com/o
 2. **NPM**
 
 ```bash
- npm install colorful.css
+ npm install sunny.css
 ```
 
 3. **Yarn**
 
 ```bash
- yarn add colorful.css
+ yarn add sunny.css
 ```
 
 Alternatively, you can see the raw CSS file by going [here](https://raw.githubusercontent.com/y-arjun-y/sunny.css/main/style.css).
