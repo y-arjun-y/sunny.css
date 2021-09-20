@@ -18,7 +18,7 @@ A retro and colorful classless CSS theme! Based on [sakura](https://github.com/o
 ```html
 <link
   rel="stylesheet"
-  href="https://unpkg.com/sunny.css@1.0.2/style.css"
+  href="https://unpkg.com/sunny.css@1.0.3/style.css"
   type="text/css"
 />
 ```
